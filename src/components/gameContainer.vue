@@ -12,7 +12,7 @@ export default {
   props: {
     msg: String
   },
-  setup(props) {
+  setup(props,context) {
     const vTitle = computed(() => '-' + props.msg + '-');
 
     return {

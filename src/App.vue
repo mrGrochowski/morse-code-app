@@ -30,6 +30,8 @@ body {
   display: flex;
   flex-direction: column;
   background-color: rgb(30, 29, 42);
+  
+background: linear-gradient(167deg, rgb(30, 29, 42) 0%, rgb(38, 35, 70) 54%, rgb(77, 73, 110) 100%);
   position: relative;
 }
 
